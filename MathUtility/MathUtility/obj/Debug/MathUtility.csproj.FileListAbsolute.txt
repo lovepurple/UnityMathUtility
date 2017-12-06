@@ -1,5 +1,0 @@
-E:\Repository\UnityMathUtility\MathUtility\MathUtility\bin\Debug\MathUtility.dll
-E:\Repository\UnityMathUtility\MathUtility\MathUtility\bin\Debug\MathUtility.pdb
-E:\Repository\UnityMathUtility\MathUtility\MathUtility\bin\Debug\UnityEngine.dll
-E:\Repository\UnityMathUtility\MathUtility\MathUtility\obj\Debug\MathUtility.dll
-E:\Repository\UnityMathUtility\MathUtility\MathUtility\obj\Debug\MathUtility.pdb
